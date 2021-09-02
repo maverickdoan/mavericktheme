@@ -1,0 +1,2 @@
+# mavericktheme
+Maverick WordPress Theme
